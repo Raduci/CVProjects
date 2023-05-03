@@ -1,0 +1,1 @@
+C++ number guessing game: Create a game in C++ where the computer generates a random number and the player tries to guess it within a certain number of attempts.
